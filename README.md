@@ -112,11 +112,11 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/thanhdang198">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdang198&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdang198&theme=radical&border=7F3FBF&background=0D1117" alt="ThanhDT's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/thanhdang198">
