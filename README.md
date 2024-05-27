@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=CV+Flutter">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「  a mobile developer from <b>VietNam</b> 」
     <br>
     <br>
   </samp>
